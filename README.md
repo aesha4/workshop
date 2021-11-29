@@ -39,5 +39,5 @@
     1. ALIET
        1. 4-1
 * Ayesha
-  *ALIET
-    *4-1
+  *Aliet
+   *4-1
