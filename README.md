@@ -1,2 +1,3 @@
 # workshop
-A 2 day workshop on git ans github
+A 2 day workshop on git and github
+
